@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif;
+} 
+head{
+    background-color:#B784A7;
+} 
+h1{
+    font-size:40px; 
+    margin-left:0px; 
+    margin-top:130px; 
+    
+   
+} 
+h2{
+    margin-left:70px; 
+    font-size:30px; 
+   
+    
+} 
+img{
+    height:300px;
+    width:400px; 
+    margin-left:1200; 
+    
+} 
+nav{
+      
+    text-align: right;  
+    margin-right: 20px; 
+    
+    
+
+}  
+a{
+    margin-left:20px; 
+    text-decoration:none; 
+    color:8000FF;
+ } 
+ .lesson{
+    margin-left:5px;
+ } 
+ td{
+      
+    
+    padding:5px; 
+    text-align:centre; 
+    border-left:1px solid grey; 
+    border-bottom:1px solid grey
+    
+ } 
+ tr{
+      
+    border-radius:15px; 
+    border:1px solid grey; 
+    padding:1px;
+   
+ } 
+ tr:first-child{
+    background-color:#B784A7; 
+    border-radius: 15px; 
+    border:1px solid grey; 
+    
+ } 
+ table{
+    border:1px solid grey; 
+    border-radius: 15px;  
+    margin-left:90px; 
+    width:500px;
+    
+ } 
+ .teacher{
+    margin-left:1px; 
+    font-size:29px;
+ } 
+ .dfg{
+    font-size:30px; 
+    display:flex; 
+    justify-content: space-around;
+ } 
+ .leson{
+    font-size:30px;
+ } 
+ p{
+    font-size:20px; 
+    display:flex; 
+    justify-content:space-between; 
+    
+    float:left;
+ } 
+ .gref{
+    text-decoration:none;
+ }
+
+
